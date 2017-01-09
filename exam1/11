@@ -1,0 +1,6 @@
+1.
+  import mymodule
+  from mymodule import foo
+2.
+  第一种将mymodule里的属性全部导入
+  第二种只导入foo
